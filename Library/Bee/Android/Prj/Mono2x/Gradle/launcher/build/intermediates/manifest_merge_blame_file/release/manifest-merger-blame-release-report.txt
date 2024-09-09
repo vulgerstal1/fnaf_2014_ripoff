@@ -1,0 +1,132 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.FNAF_Ripoff_2014"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="34" />
+10-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-54
+19-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:19-51
+20    <uses-feature
+20-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-55
+22        android:required="false" />
+22-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-33
+23    <uses-feature
+23-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.touchscreen"
+24-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-52
+25        android:required="false" />
+25-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+26
+27    <application
+27-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+28        android:extractNativeLibs="true"
+28-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:18-50
+29        android:icon="@mipmap/app_icon"
+29-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+30        android:label="@string/app_name" >
+30-->C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+31        <meta-data
+31-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-21:33
+32            android:name="unity.splash-mode"
+32-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-45
+33            android:value="0" />
+33-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-30
+34        <meta-data
+34-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-24:36
+35            android:name="unity.splash-enable"
+35-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-47
+36            android:value="True" />
+36-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:13-33
+37        <meta-data
+37-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-27:36
+38            android:name="unity.launch-fullscreen"
+38-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-51
+39            android:value="True" />
+39-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-33
+40        <meta-data
+40-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-30:37
+41            android:name="unity.allow-resizable-window"
+41-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-56
+42            android:value="False" />
+42-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-34
+43        <meta-data
+43-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:50
+44            android:name="notch.config"
+44-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-40
+45            android:value="portrait|landscape" />
+45-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-47
+46        <meta-data
+46-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+47            android:name="unity.auto-report-fully-drawn"
+47-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-57
+48            android:value="true" />
+48-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+49
+50        <activity
+50-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:9-59:20
+51            android:name="com.unity3d.player.UnityPlayerActivity"
+51-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-66
+52            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+52-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:13-194
+53            android:exported="true"
+53-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-36
+54            android:hardwareAccelerated="false"
+54-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-48
+55            android:launchMode="singleTask"
+55-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-44
+56            android:resizeableActivity="false"
+56-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-47
+57            android:screenOrientation="fullUser"
+57-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-49
+58            android:theme="@style/UnityThemeSelector" >
+58-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-54
+59            <intent-filter>
+59-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-51:29
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:17-77
+60-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:27-74
+61
+62                <action android:name="android.intent.action.MAIN" />
+62-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:17-69
+62-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:25-66
+63            </intent-filter>
+64
+65            <meta-data
+65-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-55:40
+66                android:name="unityplayer.UnityActivity"
+66-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:17-57
+67                android:value="true" />
+67-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:17-37
+68            <meta-data
+68-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-58:40
+69                android:name="notch_support"
+69-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:17-45
+70                android:value="true" />
+70-->[:unityLibrary] C:\Games_Temp\FNAF_Ripoff_2014\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:17-37
+71        </activity>
+72    </application>
+73
+74</manifest>

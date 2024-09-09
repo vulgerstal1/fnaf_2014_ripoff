@@ -1,0 +1,120 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - DoorButtonCS
+    - FreddyBearAICS
+    - PowerUsageCS
+    - ShowHideCameraButton
+  serializedClasses: {}
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/Scenes/night_alpha_CS.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 16996}
+    - Class: 114
+      Script: {instanceID: 17000}
+    - Class: 114
+      Script: {instanceID: 17004}
+    - Class: 114
+      Script: {instanceID: 17008}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 119
+      Script: {instanceID: 0}
+    - Class: 121
+      Script: {instanceID: 0}
+    - Class: 123
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: eb32341827dacb0257fb9ca0f8e3fa88
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: WaypointCS
+  - hash:
+      serializedVersion: 2
+      Hash: bf409a837053d4dd2f75970e84486dfd
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FollowDachaCS
+  - hash:
+      serializedVersion: 2
+      Hash: eb56d917c4ce48e12fca72a1b8c5ab4a
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DoorButtonCS
+  - hash:
+      serializedVersion: 2
+      Hash: d37bfbda961da7c90659bcffe9bd9077
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FreddyBearAICS
+  - hash:
+      serializedVersion: 2
+      Hash: 6730b07f2972b52c98082927759292f9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PowerUsageCS
+  - hash:
+      serializedVersion: 2
+      Hash: 7b5e457528e77c0f2a52acf15e89fa9a
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ShowHideCameraButton
+  platform: 13
+  scenePathNames:
+  - Assets/Scenes/night_alpha_CS.unity
+  playerPath: C:/Games_Temp/FNAF_Ripoff_2014/fnaf_ripoff_2014.apk
